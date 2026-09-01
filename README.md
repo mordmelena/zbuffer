@@ -1,5 +1,7 @@
-From vertices to pixels. 
+From vertices to pixel
 
+```html
+<pre>
              ●────────────●
             /│           /│
            / │          / │
@@ -9,6 +11,7 @@ From vertices to pixels.
           │ /          │ /
           │/           │/
           ●────────────●
+</pre>
           
 Modern graphics APIs hide an enormous amount of complexity behind a few function calls.
 Here the algorithm is implemented from scratch in Javascript with some Vector algebra. 
